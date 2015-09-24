@@ -19,6 +19,22 @@ I am a Senior Front End Developer with a love for JavaScript and in particular R
 | Jan 07 - Sep 09  | Australian Bureau of Statistics   | Applications Programmer | Provided Applications Development and Support to clients using LotusScript and Domino Designer |
 | Jun 06 - Current  | Self employed  | Freelance Web Consultant | Web developer, project management and online marketing for a wide range of clients |
 
+## Technical Skills
+
+### FrontEnd
+| Name        | Proficiency [1,10] | Years, Months  |
+| :------------- |:-------------:| :-----|
+| Javascript     | 9             | 6 years |
+| jQuery         | 10            |   6 years |
+| HTML           | 10            |    10 years |
+| CSS            | 9            |    10 years |
+| ReactJS        | 8            |    9 months |
+| AngularJS      | 7            |   6 months |
+| Flux/Fluxible        | 7            |    9 months |
+| Bootstrap | 7            |    2 years |
+| Sass          | 8            |    9 months |
+| Less           | 7            |    1.5 years |
+
 ## Other Links
 | Name                | Link |
 | :-------------      |:-------------:| 
