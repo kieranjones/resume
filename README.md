@@ -12,7 +12,7 @@ I am a Senior Front End Developer with a love for JavaScript and in particular R
 ## Employment History
 | Period            |  Company      | Title     | Responsbilities |
 | :------------------:|:-------------:| :------:   | :---------------|
-| Feb 15 - Current  | Bauer Media   | UI Engineer | Using ReactJS/NodeJS to build Women's Network products including FoodToLove.com.au |
+| Feb 15 - Current  | Bauer Media   | Senior UI Engineer | Building high traffic websites with ReactJS and NodeJS. Mentoring junior and mid-level devs. Projects include nowtolove.com.au |
 | Jul 14 - Feb 15  | GHO	| Senior Front End Developer | Using AngularJS, JavaScript & jQuery to build large scale web projects |
 | Oct 11 - Jul 14  | Pixolut   | Front End Developer | Using HTML5, CSS3 and JavaScript to build websites and Facebook application |
 | Oct 09 - Sep 11  | SHS Products   | Web Developer | Development with PHP based Online Store website using HTML, CSS and JavaScript as well as SEO and Online Marketing |
@@ -21,19 +21,35 @@ I am a Senior Front End Developer with a love for JavaScript and in particular R
 
 ## Technical Skills
 
-### FrontEnd
-| Name        | Proficiency [1,10] | Years, Months  |
-| :------------- |:-------------:| :-----|
-| Javascript     | 9             | 6 years |
-| jQuery         | 10            |   6 years |
-| HTML           | 10            |    10 years |
-| CSS            | 9            |    10 years |
-| ReactJS        | 8            |    9 months |
-| AngularJS      | 7            |   6 months |
-| Flux/Fluxible        | 7            |    9 months |
-| Bootstrap | 7            |    2 years |
-| Sass          | 8            |    9 months |
-| Less           | 7            |    1.5 years |
+### Front End
+| Name        | Years, Months  |
+| :------------- | :-----|
+| JavaScript (ES6)    | 8 years |
+| jQuery         |  8 years |
+| HTML           | 12 years |
+| CSS (Sass/Less)            |    12 years |
+| ReactJS        |  2.5 years |
+| Flux/Fluxible        |  2.5 years |
+| Unit Testing       |  2.5 years |
+| AngularJS      | 6 months |
+| Bootstrap | 4 years |
+
+### Back End
+| Name        | Years, Months  |
+| :------------- | :-----|
+| NodeJS   | 2.5 years |
+| PHP   | 10 years |
+| MySQL   | 10 years |
+| Postgres   | 2.5 years |
+
+### Developer Skills
+| Name        | Years, Months  |
+| :------------- | :-----|
+| Git/Bitbucket   | 4 years |
+| Unit Testing (Mocha/Karma/Sinon/Enzyme/Jest)   | 3 years |
+| Build Tools (NPM/Webpack/Gulp/Grunt/Yarn)  | 4 years |
+| Agile  | 2.5 years |
+| Mentoring  | 2 years |
 
 ## Other Links
 | Name                | Link |
