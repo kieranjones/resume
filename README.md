@@ -3,7 +3,7 @@ Last updated - 23/09/2015
 #Kieran Jones - Resume
 
 ## Background
-I am a Senior Front End Developer with a love for JavaScript and in particular ReactJS. I love building WordPress themes and am proficent in PHP. I am Google Analytics certified and enjoy working with data and implementing analytics solutions.
+I am a Senior Front End Developer with a love for JavaScript and in particular ReactJS. I love building WordPress themes and am proficient in PHP. I am Google Analytics certified and enjoy working with data and implementing analytics solutions.
 
 ## Education
 * Bachelor of Internet Science & Technology - Major in Internet Applications (University of Wollongong)
